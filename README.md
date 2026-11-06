@@ -4,3 +4,5 @@ There is no guarantee of correctness and you are responsible for making sure tha
 You are free to use and edit the cards as you like.
 
 The format is Anki Deck Package (.apkg), intended for use in Anki (https://apps.ankiweb.net/).
+
+My goal is to make flashcards for the entire course but I will not make any promises that this will happen.
